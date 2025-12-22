@@ -1,5 +1,24 @@
 # Changelog
 
+## [25.93.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.92.0...v25.93.0) (2025-12-22)
+
+
+### Features
+
+* **add:** CS-T2C ([#11065](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11065)) ([2b57be5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/2b57be503e82bde09f59bb50a62c30d33a5d10b4))
+* **add:** FLS-H ([#11077](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11077)) ([d8a0aca](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d8a0aca25017fbb448b38ec05ced5baf88902daf))
+* **add:** HS8OS, HS1SA, HS2WD, HS2WL ([#11027](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11027)) ([facb181](https://github.com/Koenkk/zigbee-herdsman-converters/commit/facb181988cc60577e439f5ee28d85e083809a2d))
+
+
+### Bug Fixes
+
+* Dresden Elektronik FLS-A: support OTA ([#11075](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11075)) ([fffab6a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/fffab6a8749ec662b088e281c7f8a214c32d97a6))
+* Dresden Elektronik FLS-CT: support OTA and add color temp range ([#11073](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11073)) ([4d52c8d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/4d52c8d58600fce0ebdc7cc2947f97dceebdb6ab))
+* Dresden Elektronik FLS-PP: add color temp range ([#11074](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11074)) ([4965ae8](https://github.com/Koenkk/zigbee-herdsman-converters/commit/4965ae8b43253aff405fd1337d7220996d4e03fe))
+* **ignore:** bump the minor-patch group with 2 updates ([#11066](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11066)) ([ba8b633](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ba8b633c048cdfb0a8341b18c7b369209bda75d0))
+* **ignore:** lint ([7a09a82](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7a09a8232cd50fc525a3ba52c4bd23a169888fe4))
+* Thaleos Thermostats: fix various energy conversions ([#11064](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11064)) ([51eb943](https://github.com/Koenkk/zigbee-herdsman-converters/commit/51eb943065f760e8c285bf2d1075224f60286d83))
+
 ## [25.92.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.91.0...v25.92.0) (2025-12-21)
 
 
